@@ -1,8 +1,8 @@
 from  random import randint
 from  time import sleep
 from  os import system
-c=0
-p=0
+c=0   #contador  do computador
+p=0   #contador  do computador
 def jokepo(x):
     
     lista = ["PEDRA","PAPEL","TESOLRA"]
