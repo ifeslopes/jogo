@@ -31,18 +31,7 @@ while c:
 	print(" PLAY1 VS COMP ",end="")
 	
 	print("\033[42m \033[m" * play2 + "\033[41m \033[m" * n,end=" ")
-	
-	#play1-=1
-	
-	#play2-=0
-	
-	#b+=1
-	
-	#n+=0
-	
-	#time.sleep(1)
-	#if play1 < 0:
-		#c=False
+
 	
 	print()
 	print(f"{v1}                           {v2}")
