@@ -3,7 +3,7 @@ from  time import sleep
 from  os import system
 c=0   #contador  do computador
 p=0   #contador  do computador
-def jokepo(x): #função principal
+def jokepo(x): #função principal1
     
     lista = ["PEDRA","PAPEL","TESOLRA"]
     comp = randint(0,2)
