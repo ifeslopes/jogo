@@ -4,7 +4,7 @@ import random
 from  random import randint
 from  time import sleep
 n=0
-b=0 #
+b=0 #1
 dano=""
 play1=10
 play2=10
