@@ -5,7 +5,7 @@ c=0   #contador  do computador
 p=0   #contador  do computador
 def jokepo(x): #função principal1
     
-    lista = ["PEDRA","PAPEL","TESOLRA"] #aquiteste gitg         
+    lista = ["PEDRA","PAPEL","TESOLRA"] #aqui teste       
     comp = randint(0,2)
  
     jogador= int(x)
